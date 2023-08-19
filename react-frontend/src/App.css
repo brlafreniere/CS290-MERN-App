@@ -1,0 +1,35 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #A7BEDD;
+  color: #404E71;
+  margin: 1em 5em;
+  padding: 1em 5em;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: white;
+}
+
+tr th {
+  border: 1px solid black;
+  background-color: #404E71;
+  color: white;
+  padding: 0.5em;
+}
+
+tr td {
+  border: 1px solid black;
+  color: #5783A0;
+  padding: 0.5em;
+}
+
+input, button {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+  padding: 2em;
+  text-align: center;
+}
